@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
                     @Override
                     public void onClick(View view) {
                         buttonText.setText("You have clicked the button");
-
+                        // add something
                     }
                 }
         );
